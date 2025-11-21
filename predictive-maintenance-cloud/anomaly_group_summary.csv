@@ -1,0 +1,4 @@
+service,env,total_logs,anomaly_rate,iforest_rate,z_latency_rate,z_cpu_rate,latency_p50,latency_p95,cpu_p50,cpu_p95
+EC2,prod,12069,1.91,1.67,0.06,0.28,24.91,34.92,0.448,0.649
+LAMBDA,prod,8104,2.44,2.23,0.04,0.25,15.08,24.9,0.451,0.656
+RDS,prod,6675,2.56,2.31,0.19,0.19,34.9,44.62,0.448,0.648

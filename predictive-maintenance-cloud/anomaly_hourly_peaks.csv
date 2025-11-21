@@ -1,0 +1,10 @@
+service,env,hour,anomaly_rate,rank
+EC2,prod,18,3.39,1.0
+EC2,prod,11,3.01,2.0
+EC2,prod,14,3.01,3.0
+LAMBDA,prod,17,5.13,1.0
+LAMBDA,prod,0,4.35,2.0
+LAMBDA,prod,12,3.75,3.0
+RDS,prod,17,5.88,1.0
+RDS,prod,18,4.39,2.0
+RDS,prod,21,4.2,3.0
